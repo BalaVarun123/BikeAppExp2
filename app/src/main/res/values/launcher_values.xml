@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="launcher_num_pages">5</integer>
+    <string name="launcher_str_top_1">Hello</string>
+    <string name="launcher_str_bottom_1">World.</string>
+</resources>

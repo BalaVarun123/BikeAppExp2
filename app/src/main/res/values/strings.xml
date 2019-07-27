@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BikeAppExp2</string>
+    <string name="title_activity_launcher">Launcher</string>
+    <string name="content_launcher_content_description">Image will appear here.</string>
+    <string name="app_title">Bike APP</string>
+    <string name="app_title_description">App for bikes</string>
+    <string name="Authors">Hariharan G., Dinesh Kumar, Balasubramanian S.</string>
+    <string name="logging_preferences">com.example.bikeappexp2_logging_preferences</string>
+    <string name="logging_status_preference">com.example.bikeappexp2_logging_status_preference</string>
+    <string name="user_name_prefernce">com.example.bikeappexp2_username</string>
+    <string name="password_preference">com.example.bikeappexp2_password</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
